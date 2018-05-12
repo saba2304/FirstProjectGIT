@@ -7,3 +7,4 @@ jss file sof the issue created in the later region of the are ain advance ment t
 my name is saba 
 i work in adobe 
 i am quality engineer by job profession 
+git add origin 
